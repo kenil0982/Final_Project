@@ -1,4 +1,4 @@
-# Final_Project
+
 📊 HR Analytics Report
 This repository provides insights from an HR Analytics dataset of 1,480 employees. The primary goal is to explore workforce trends and identify key factors influencing employee attrition, satisfaction, and engagement.
 
